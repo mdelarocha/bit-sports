@@ -1374,12 +1374,12 @@ body {
 }
 .cid-qKBHl5a8q3 .navbar {
   padding: .5rem 0;
-  background: #c1c1c1;
+  background: #344055;
   transition: none;
   min-height: 77px;
 }
 .cid-qKBHl5a8q3 .navbar-dropdown.bg-color.transparent.opened {
-  background: #c1c1c1;
+  background: #344055;
 }
 .cid-qKBHl5a8q3 a {
   font-style: normal;
@@ -1463,7 +1463,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qKBHl5a8q3 .dropdown .dropdown-menu {
-  background: #c1c1c1;
+  background: #344055;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1534,7 +1534,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #767676;
 }
 .cid-qKBHl5a8q3 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1754,7 +1754,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qKB2dAraFQ H1 {
-  color: #f7ed4a;
+  color: #407a8d;
 }
 .cid-qKB2dAraFQ .mbr-text,
 .cid-qKB2dAraFQ .mbr-section-btn {
@@ -1764,6 +1764,9 @@ body {
   padding-top: 45px;
   padding-bottom: 15px;
   background-image: url("../../../assets/images/jumbotron.jpg");
+}
+.cid-qKB8AE1Ez4 H2 {
+  color: #b7b6bf;
 }
 .cid-qKB8gYi8D4 {
   padding-top: 90px;
@@ -1783,7 +1786,7 @@ body {
 .cid-qKB8gYi8D4 .card-img {
   border-radius: 0;
   padding: 2rem 2rem 0 2rem;
-  background-color: #149dcc;
+  background-color: #344055;
 }
 .cid-qKB8gYi8D4 .card-img span {
   font-size: 100px;
@@ -1791,8 +1794,8 @@ body {
 }
 .cid-qKB8gYi8D4 .card-box {
   padding-bottom: 2rem;
-  background-color: #149dcc;
-  background: linear-gradient(#149dcc, transparent);
+  background-color: #344055;
+  background: linear-gradient(#344055, transparent);
 }
 .cid-qKB8gYi8D4 .card-box .card-title {
   margin: 0;
@@ -1813,6 +1816,9 @@ body {
   padding-top: 60px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/jumbotron.jpg");
+}
+.cid-qKBEJGvJxy H2 {
+  color: #bab9c8;
 }
 .cid-qKBr43uNeg {
   padding-top: 60px;
@@ -1838,18 +1844,18 @@ body {
   transition: all .3s;
 }
 .cid-qKBr43uNeg .nav-tabs .nav-link:hover {
-  background-color: #149dcc;
+  background-color: #344055;
 }
 .cid-qKBr43uNeg .nav-tabs .nav-link:focus {
   box-shadow: none;
-  background-color: #149dcc;
+  background-color: #344055;
 }
 .cid-qKBr43uNeg .nav-tabs .nav-link.active {
   font-weight: 500;
   color: #ffffff;
   font-style: normal;
   border: none;
-  background: #149dcc;
+  background: #344055;
 }
 .cid-qKBr43uNeg .nav-tabs .nav-link.active:hover {
   border: none;
@@ -1905,13 +1911,13 @@ body {
   line-height: 44px;
 }
 .cid-qKBkBBmfl9 .btn-social {
-  border-color: #149dcc;
+  border-color: #b7b6c2;
 }
 .cid-qKBkBBmfl9 .btn-social:hover {
-  background: #149dcc;
+  background: #b7b6c2;
 }
 .cid-qKBkBBmfl9 .btn-social:hover i.socicon {
-  color: #ffffff !important;
+  color: #000000 !important;
 }
 @media (max-width: 767px) {
   .cid-qKBkBBmfl9 .btn {

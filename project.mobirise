@@ -45,7 +45,7 @@
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
-    "favicon": "@PROJECT_PATH@/assets/images/adsf-128x96-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": ""
